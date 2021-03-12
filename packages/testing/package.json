@@ -11,7 +11,7 @@
   "dependencies": {
     "@redwoodjs/internal": "^0.22.1",
     "@redwoodjs/web": "^0.22.1",
-    "@testing-library/react": "11.2.2",
+    "@testing-library/react": "11.2.5",
     "@types/react": "16.9.53",
     "msw": "^0.21.2"
   },
